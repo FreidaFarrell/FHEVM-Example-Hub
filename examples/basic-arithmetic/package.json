@@ -1,0 +1,30 @@
+{
+  "name": "fhevm-example-basic-arithmetic",
+  "version": "1.0.0",
+  "description": "Basic FHEVM example demonstrating arithmetic and comparison operations on encrypted values",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "test:coverage": "hardhat coverage",
+    "deploy": "hardhat run scripts/deploy.ts",
+    "deploy:sepolia": "hardhat run scripts/deploy.ts --network sepolia",
+    "verify": "hardhat verify",
+    "clean": "hardhat clean",
+    "node": "hardhat node"
+  },
+  "dependencies": {
+    "@fhevm/solidity": "^1.0.0",
+    "ethers": "^6.8.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "@types/chai": "^4.3.0",
+    "@types/mocha": "^10.0.0",
+    "@types/node": "^20.0.0",
+    "chai": "^4.3.0",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.17.0",
+    "typescript": "^5.2.0"
+  }
+}
