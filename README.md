@@ -18,7 +18,7 @@ A comprehensive Fully Homomorphic Encryption (FHE) example hub featuring standal
 - **Live Application**: [https://privacy-traceability.vercel.app/](https://privacy-traceability.vercel.app/)
 - **GitHub Repository**: [https://github.com/FreidaFarrell/FHEVM-Example-Hub](https://github.com/FreidaFarrell/FHEVM-Example-Hub)
 - **Documentation**: See project files for complete guides
-- **Demo Video**: PrivacyTraceability.mp4 (included in repository)
+- **Demo Video**: [building privacy-preserving.mp4](https://streamable.com/nl8h76) (included in repository)
 
 ## 📦 FHEVM Example Hub Components
 
@@ -201,7 +201,7 @@ A complete confidential tracking system providing:
 ## 🎬 Demo Content
 
 ### 📹 **Demonstration Video**
-PrivacyTraceability.mp4
+[building privacy-preserving.mp4](https://streamable.com/nl8h76)
 The repository includes a comprehensive demo video showcasing:
 - Complete system walkthrough
 - Privacy features demonstration
