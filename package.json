@@ -1,0 +1,17 @@
+{
+  "name": "privacy-traceability-dapp",
+  "version": "1.0.0",
+  "description": "Privacy Product Traceability System - Blockchain DApp",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "blockchain",
+    "dapp",
+    "ethereum",
+    "privacy",
+    "traceability"
+  ]
+}
