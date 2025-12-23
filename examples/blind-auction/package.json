@@ -1,0 +1,19 @@
+{
+  "name": "blind-auction-example",
+  "version": "1.0.0",
+  "description": "Blind Auction Example - Demonstrates sealed-bid auction using FHE",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "test:coverage": "hardhat coverage"
+  },
+  "devDependencies": {
+    "@fhevm/solidity": "^0.9.1",
+    "@fhevm/hardhat-plugin": "^0.3.0-1",
+    "@nomicfoundation/hardhat-ethers": "^3.1.0",
+    "@nomicfoundation/hardhat-chai-matchers": "^2.1.0",
+    "hardhat": "^2.26.0",
+    "chai": "^4.5.0",
+    "ethers": "^6.15.0"
+  }
+}
